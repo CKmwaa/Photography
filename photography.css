@@ -1,11 +1,22 @@
 h1
-{color: blueviolet;
+{color: white;
 text-align: center;
 }
 h4
 {font-style:italic;}
 *
-{background-color: rgb(146, 179, 190);}
+{background-color: rgb(146, 179, 190);
+background-image: url("Nairobi3.png");
+background-size: cover;
+}
+p{
+  color: white;
+}
+li{
+  color: black;
+  text-shadow: coral;
+  font-weight: bold;
+}
 h4
 {
 width:150px;
@@ -20,5 +31,8 @@ order: 3px rgb(85, 37, 37);
       overflow: auto;
 }
 body{
-  background-image: url("i");
+  
 }
+#Top{
+  width="300" height="300";
+  margin-left: 320px;
