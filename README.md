@@ -14,7 +14,7 @@ The project has a headine entitled photography.
 * The project has different styles attached to it including alignments, padding and colors.
 
 #### Click to the site
-[click Here](https://ckmwaa.github.io/Photography-project/)
+[click Here]https://ckmwaa.github.io/Photography/)
 
 
 #### License
